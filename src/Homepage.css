@@ -210,3 +210,9 @@
     width: 60%;
   }
 }
+.btn-container{
+  color: #20bdff;
+  font-size: 15px;
+  text-decoration: none;
+  border-radius: 2%;
+}
