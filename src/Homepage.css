@@ -103,6 +103,13 @@
   min-height: 100vh;
 }
 
+.homepage-container .graphics fonts {
+  display: flex;
+  justify-content: center;
+  width: 40%;
+  min-height: 100vh;
+}
+
 .homepage-container .graphics img {
   align-self: center;
 }

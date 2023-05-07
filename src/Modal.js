@@ -13,7 +13,7 @@ const Modal = () => {
       <div className='modal-container'>
         <h3>modal content</h3>
         
-        </button>
+        
       </div>
     </div>
   );
